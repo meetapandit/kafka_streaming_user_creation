@@ -8,7 +8,7 @@ Introduction
 
 ## System Architecture
 
-![system_architecture_diagram](https://github.com/meetapandit/kafka_streaming_user_creation/assets/15186489/61de05b3-fd96-453a-8476-12afecc77cf7)
+![system_architecture_diagram](https://github.com/meetapandit/kafka_streaming_user_creation/assets/15186489/0060c7d6-7ceb-4e27-9407-ad2fee5d94ea)
 
 ## Step-by-Step Workflow
 - Data Source: Random users are generated through randomuser.me API
