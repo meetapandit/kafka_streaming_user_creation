@@ -1,4 +1,4 @@
-# Real-time data Streaming! User Profile Automation
+# Real-time data Streaming- Users Ingestion
 
 Introduction
 - This project is developed for real-time stream processing of events from API for creating user dimension table in the database.
